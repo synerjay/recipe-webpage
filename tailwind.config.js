@@ -19,3 +19,5 @@ module.exports = {
 };
 
 // Every time you change the theme in the config file, you need to run the script in the package.json
+
+// script: npm run build-css
